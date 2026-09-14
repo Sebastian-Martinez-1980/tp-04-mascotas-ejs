@@ -1,0 +1,20 @@
+[
+ {
+ "id": 1,
+ "nombre": "Turbo",
+ "especie": "Perro",
+ "edad": 8,
+ "descripcion": "Perro de raza pitbull",
+ "estado": "Adopción.",
+ "imagen": "Imagen pitbull."
+ },
+ {
+ "id": 1,
+ "nombre": "Jessi",
+ "especie": "Gato",
+ "edad": 4,
+ "descripcion": "Gata de raza agora",
+ "estado": "Reservada.",
+ "imagen": "Imagen gata agora."
+ }
+]
